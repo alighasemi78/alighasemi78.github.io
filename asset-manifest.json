@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.de1ad01d.css",
-    "main.js": "/static/js/main.57af574c.js",
+    "main.css": "/static/css/main.683bba20.css",
+    "main.js": "/static/js/main.66d4290d.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/apartment-finder.png": "/static/media/apartment-finder.f8743f509ffa75df8f29.png",
     "static/media/little-lemon.png": "/static/media/little-lemon.24c7aa36597076e526be.png",
@@ -9,15 +9,16 @@
     "static/media/snackflix.png": "/static/media/snackflix.5870a134eb5900425710.png",
     "static/media/ali-ghasemi.jpg": "/static/media/ali-ghasemi.ca9478e9ea851f39f27c.jpg",
     "static/media/sharif.jpeg": "/static/media/sharif.aec7b4467da881eaf62f.jpeg",
+    "static/media/logo-orange-black.svg": "/static/media/logo-orange-black.043d6d63009fa2bbd47cf6d78e76c64d.svg",
     "static/media/logo-white-orange.svg": "/static/media/logo-white-orange.33230382c466d3e746e383e2f853ecfc.svg",
     "index.html": "/index.html",
     "static/media/bars-solid.svg": "/static/media/bars-solid.fc74b78729108dc5fc20c461ca365033.svg",
-    "main.de1ad01d.css.map": "/static/css/main.de1ad01d.css.map",
-    "main.57af574c.js.map": "/static/js/main.57af574c.js.map",
+    "main.683bba20.css.map": "/static/css/main.683bba20.css.map",
+    "main.66d4290d.js.map": "/static/js/main.66d4290d.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de1ad01d.css",
-    "static/js/main.57af574c.js"
+    "static/css/main.683bba20.css",
+    "static/js/main.66d4290d.js"
   ]
 }
