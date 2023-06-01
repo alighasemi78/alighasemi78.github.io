@@ -6,10 +6,10 @@
   --dmSans: "DM Sans", sans-serif;
   --regular: 400;
   --bold: 700;
-  --nav: var(--regular) 16px var(--robotoCondensed);
+  --nav: var(--regular) 1vw var(--robotoCondensed);
   --title: var(--regular) 70px var(--robotoCondensed);
   --subTitle: var(--regular) 30px var(--dmSans);
-  --normal: var(--regular) 16px var(--dmSans);
+  --normal: var(--regular) 1vw var(--dmSans);
   --sectionTitle: var(--regular) 50px var(--robotoCondensed);
   --cardTitle: var(--bold) 24px var(--robotoCondensed);
   --titleTablet: var(--regular) 40px var(--robotoCondensed);

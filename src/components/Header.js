@@ -10,6 +10,7 @@ const Header = () => {
       <img src={hamburgerMenu} alt="hamburger menu" className="headerMenu" />
       <nav className="headerNav">
         <ul>
+          <li>Home</li>
           <li>Education</li>
           <li>Experiences</li>
           <li>Certifications</li>

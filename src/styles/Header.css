@@ -55,7 +55,7 @@
   .headerNav ul {
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(6, auto);
+    grid-template-columns: repeat(7, auto);
     align-items: center;
   }
 
