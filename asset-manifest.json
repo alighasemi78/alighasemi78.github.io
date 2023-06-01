@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b3c7961.css",
-    "main.js": "/static/js/main.406815bd.js",
+    "main.css": "/static/css/main.de1ad01d.css",
+    "main.js": "/static/js/main.57af574c.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/apartment-finder.png": "/static/media/apartment-finder.f8743f509ffa75df8f29.png",
     "static/media/little-lemon.png": "/static/media/little-lemon.24c7aa36597076e526be.png",
@@ -12,12 +12,12 @@
     "static/media/logo-white-orange.svg": "/static/media/logo-white-orange.33230382c466d3e746e383e2f853ecfc.svg",
     "index.html": "/index.html",
     "static/media/bars-solid.svg": "/static/media/bars-solid.fc74b78729108dc5fc20c461ca365033.svg",
-    "main.5b3c7961.css.map": "/static/css/main.5b3c7961.css.map",
-    "main.406815bd.js.map": "/static/js/main.406815bd.js.map",
+    "main.de1ad01d.css.map": "/static/css/main.de1ad01d.css.map",
+    "main.57af574c.js.map": "/static/js/main.57af574c.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b3c7961.css",
-    "static/js/main.406815bd.js"
+    "static/css/main.de1ad01d.css",
+    "static/js/main.57af574c.js"
   ]
 }
