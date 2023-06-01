@@ -12,6 +12,8 @@ function App() {
         <Section title="experiences" />
         <Section title="certifications" />
         <Section title="projects" />
+        <Section title="about" />
+        <Section title="contact" />
       </main>
     </>
   );

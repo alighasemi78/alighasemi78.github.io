@@ -44,6 +44,10 @@ img {
   width: 100%;
 }
 
+a {
+  word-break: break-all;
+}
+
 @media screen and (min-width: 431px) {
   :root {
     --title: var(--regular) 4.7vw var(--robotoCondensed);
