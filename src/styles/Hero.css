@@ -39,7 +39,7 @@
   color: var(--secondary);
 }
 
-@media screen and (min-width: 431px) {
+@media screen and (min-width: 430px) {
   .hero {
     align-items: center;
   }

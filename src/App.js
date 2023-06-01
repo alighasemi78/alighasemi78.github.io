@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Section from "./components/Section";
@@ -15,6 +16,7 @@ function App() {
         <Section title="about" />
         <Section title="contact" />
       </main>
+      <Footer />
     </>
   );
 }

@@ -60,7 +60,7 @@ ol.cardMainBody {
   padding-inline-start: 5vw;
 }
 
-@media screen and (min-width: 431px) {
+@media screen and (min-width: 430px) {
   .card {
     padding: 30px;
   }

@@ -23,7 +23,7 @@
   text-align: justify;
 }
 
-@media screen and (min-width: 431px) {
+@media screen and (min-width: 430px) {
   .sectionTitle,
   .sectionMain {
     grid-column: 1 / span 6;

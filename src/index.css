@@ -6,7 +6,7 @@
   --dmSans: "DM Sans", sans-serif;
   --regular: 400;
   --bold: 700;
-  --nav: var(--regular) 1vw var(--robotoCondensed);
+  --nav: var(--regular) 3.5vw var(--robotoCondensed);
   --title: var(--regular) 11vw var(--robotoCondensed);
   --subTitle: var(--regular) 8vw var(--dmSans);
   --normal: var(--regular) 4.5vw var(--dmSans);
@@ -48,13 +48,14 @@ a {
   word-break: break-all;
 }
 
-@media screen and (min-width: 431px) {
+@media screen and (min-width: 430px) {
   :root {
     --title: var(--regular) 4.7vw var(--robotoCondensed);
     --subTitle: var(--regular) 3.4vw var(--dmSans);
     --sectionTitle: var(--regular) 6.65vw var(--robotoCondensed);
     --cardTitle: var(--bold) 3.2vw var(--robotoCondensed);
     --normal: var(--regular) 2.23vw var(--dmSans);
+    --nav: var(--regular) 1.75vw var(--robotoCondensed);
   }
 
   .section {
