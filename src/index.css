@@ -7,13 +7,11 @@
   --regular: 400;
   --bold: 700;
   --nav: var(--regular) 1vw var(--robotoCondensed);
-  --title: var(--regular) 70px var(--robotoCondensed);
-  --subTitle: var(--regular) 30px var(--dmSans);
+  --title: var(--regular) 10vw var(--robotoCondensed);
+  --subTitle: var(--regular) 7vw var(--dmSans);
   --normal: var(--regular) 1vw var(--dmSans);
   --sectionTitle: var(--regular) 50px var(--robotoCondensed);
   --cardTitle: var(--bold) 24px var(--robotoCondensed);
-  --titleTablet: var(--regular) 40px var(--robotoCondensed);
-  --subTitleTablet: var(--regular) 28px var(--dmSans);
 }
 
 * {
@@ -47,6 +45,11 @@ img {
 }
 
 @media screen and (min-width: 431px) {
+  :root {
+    --title: var(--regular) 5vw var(--robotoCondensed);
+    --subTitle: var(--regular) 3vw var(--dmSans);
+  }
+
   .section {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
