@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c80e786b.css",
-    "main.js": "/static/js/main.43fdcd12.js",
+    "main.css": "/static/css/main.5b3c7961.css",
+    "main.js": "/static/js/main.406815bd.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
+    "static/media/apartment-finder.png": "/static/media/apartment-finder.f8743f509ffa75df8f29.png",
+    "static/media/little-lemon.png": "/static/media/little-lemon.24c7aa36597076e526be.png",
+    "static/media/cpr-easy.png": "/static/media/cpr-easy.e9425e482e17358d779a.png",
+    "static/media/snackflix.png": "/static/media/snackflix.5870a134eb5900425710.png",
     "static/media/ali-ghasemi.jpg": "/static/media/ali-ghasemi.ca9478e9ea851f39f27c.jpg",
+    "static/media/sharif.jpeg": "/static/media/sharif.aec7b4467da881eaf62f.jpeg",
     "static/media/logo-white-orange.svg": "/static/media/logo-white-orange.33230382c466d3e746e383e2f853ecfc.svg",
     "index.html": "/index.html",
     "static/media/bars-solid.svg": "/static/media/bars-solid.fc74b78729108dc5fc20c461ca365033.svg",
-    "main.c80e786b.css.map": "/static/css/main.c80e786b.css.map",
-    "main.43fdcd12.js.map": "/static/js/main.43fdcd12.js.map",
+    "main.5b3c7961.css.map": "/static/css/main.5b3c7961.css.map",
+    "main.406815bd.js.map": "/static/js/main.406815bd.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c80e786b.css",
-    "static/js/main.43fdcd12.js"
+    "static/css/main.5b3c7961.css",
+    "static/js/main.406815bd.js"
   ]
 }
