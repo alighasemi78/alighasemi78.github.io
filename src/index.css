@@ -7,11 +7,11 @@
   --regular: 400;
   --bold: 700;
   --nav: var(--regular) 1vw var(--robotoCondensed);
-  --title: var(--regular) 10vw var(--robotoCondensed);
-  --subTitle: var(--regular) 7vw var(--dmSans);
-  --normal: var(--regular) 1vw var(--dmSans);
-  --sectionTitle: var(--regular) 50px var(--robotoCondensed);
-  --cardTitle: var(--bold) 24px var(--robotoCondensed);
+  --title: var(--regular) 11vw var(--robotoCondensed);
+  --subTitle: var(--regular) 8vw var(--dmSans);
+  --normal: var(--regular) 4.5vw var(--dmSans);
+  --sectionTitle: var(--regular) 14vw var(--robotoCondensed);
+  --cardTitle: var(--bold) 6.5vw var(--robotoCondensed);
 }
 
 * {
@@ -46,8 +46,11 @@ img {
 
 @media screen and (min-width: 431px) {
   :root {
-    --title: var(--regular) 5vw var(--robotoCondensed);
-    --subTitle: var(--regular) 3vw var(--dmSans);
+    --title: var(--regular) 4.7vw var(--robotoCondensed);
+    --subTitle: var(--regular) 3.4vw var(--dmSans);
+    --sectionTitle: var(--regular) 6.65vw var(--robotoCondensed);
+    --cardTitle: var(--bold) 3.2vw var(--robotoCondensed);
+    --normal: var(--regular) 2.23vw var(--dmSans);
   }
 
   .section {
@@ -55,7 +58,15 @@ img {
   }
 }
 
-@media screen and (min-width: 1025px) {
+@media screen and (min-width: 1024px) {
+  :root {
+    --nav: var(--regular) 0.9vw var(--robotoCondensed);
+    --normal: var(--regular) 1.14vw var(--dmSans);
+    --subTitle: var(--regular) 2.1vw var(--dmSans);
+    --sectionTitle: var(--regular) 3.44vw var(--robotoCondensed);
+    --cardTitle: var(--bold) 1.65vw var(--robotoCondensed);
+  }
+
   .section {
     grid-template-columns: repeat(12, minmax(0, 1fr));
     padding: 0 70px;

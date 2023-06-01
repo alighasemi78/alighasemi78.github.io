@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import Section from "./components/Section";
 
 function App() {
   return (
@@ -7,6 +8,10 @@ function App() {
       <Header />
       <main>
         <Hero />
+        <Section title="education" />
+        <Section title="experiences" />
+        <Section title="certifications" />
+        <Section title="projects" />
       </main>
     </>
   );
