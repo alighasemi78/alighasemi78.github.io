@@ -11,12 +11,60 @@ const Header = () => {
       <nav className="headerNav">
         <ul>
           <li>Home</li>
-          <li>Education</li>
-          <li>Experiences</li>
-          <li>Certifications</li>
-          <li>Projects</li>
-          <li>About</li>
-          <li>Contact</li>
+          <li
+            onClick={() =>
+              document
+                .getElementsByClassName("education")[0]
+                .scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            Education
+          </li>
+          <li
+            onClick={() =>
+              document
+                .getElementsByClassName("experiences")[0]
+                .scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            Experiences
+          </li>
+          <li
+            onClick={() =>
+              document
+                .getElementsByClassName("certifications")[0]
+                .scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            Certifications
+          </li>
+          <li
+            onClick={() =>
+              document
+                .getElementsByClassName("projects")[0]
+                .scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            Projects
+          </li>
+          <li
+            onClick={() =>
+              document
+                .getElementsByClassName("about")[0]
+                .scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            About
+          </li>
+          <li
+            onClick={() =>
+              document
+                .getElementsByClassName("contact")[0]
+                .scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            Contact
+          </li>
         </ul>
       </nav>
       <Button>Download CV</Button>

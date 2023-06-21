@@ -52,6 +52,10 @@
   gap: 20px;
 }
 
+.footerSections li {
+  cursor: pointer;
+}
+
 .footerSecondSection .button {
   grid-column: 2 / span 2;
 }

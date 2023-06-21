@@ -58,10 +58,11 @@
     display: grid;
     grid-template-columns: repeat(7, auto);
     align-items: center;
+    justify-content: space-around;
   }
 
   .headerNav li {
-    text-align: center;
+    cursor: pointer;
   }
 
   .header .button {
