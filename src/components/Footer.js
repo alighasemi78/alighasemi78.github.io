@@ -18,7 +18,6 @@ const Footer = () => {
           <nav>
             <ul>
               <ul>
-                <li>Home</li>
                 <li
                   onClick={() =>
                     document

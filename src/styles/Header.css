@@ -3,6 +3,10 @@
   background-color: var(--primary);
   padding-top: 20px;
   padding-bottom: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  transition: 0.25s linear;
 }
 
 .headerLogo {

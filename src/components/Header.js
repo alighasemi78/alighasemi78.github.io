@@ -2,15 +2,35 @@ import logo from "../assets/images/logo-white-orange.svg";
 import hamburgerMenu from "../assets/images/bars-solid.svg";
 import "../styles/Header.css";
 import Button from "./Button";
+import { useEffect, useRef } from "react";
 
 const Header = () => {
+  const headerRef = useRef();
+
+  useEffect(() => {
+    let prevScroll = 0;
+    const handleScroll = () => {
+      if (window.scrollY > headerRef.current.clientHeight) {
+        if (window.scrollY > prevScroll) {
+          headerRef.current.style.transform = "translateY(-100%)";
+        } else {
+          headerRef.current.style.transform = "translateY(0)";
+        }
+      }
+      prevScroll = window.scrollY;
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
-    <header className="section header">
+    <header className="section header" ref={headerRef}>
       <img src={logo} alt="logo" className="headerLogo" />
       <img src={hamburgerMenu} alt="hamburger menu" className="headerMenu" />
       <nav className="headerNav">
         <ul>
-          <li>Home</li>
           <li
             onClick={() =>
               document
