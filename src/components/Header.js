@@ -4,7 +4,7 @@ import "../styles/Header.css";
 import Button from "./Button";
 import { useEffect, useRef } from "react";
 
-const Header = () => {
+const Header = (props) => {
   const headerRef = useRef();
 
   useEffect(() => {
@@ -28,7 +28,12 @@ const Header = () => {
   return (
     <header className="section header" ref={headerRef}>
       <img src={logo} alt="logo" className="headerLogo" />
-      <img src={hamburgerMenu} alt="hamburger menu" className="headerMenu" />
+      <img
+        src={hamburgerMenu}
+        alt="hamburger menu"
+        className="headerMenu"
+        onClick={() => props.setIsSideMenuOpen(true)}
+      />
       <nav className="headerNav">
         <ul>
           <li
