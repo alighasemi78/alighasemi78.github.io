@@ -41,6 +41,8 @@ const Section = (props) => {
               title={certification.title}
               body={certification.body}
               isList={certification.type === "ol"}
+              link={certification.link}
+              linkText={certification.linkText}
             />
           ))
         ) : props.title === "projects" ? (
@@ -52,6 +54,8 @@ const Section = (props) => {
               body={project.body}
               isList={project.type === "ol"}
               hasBanner
+              link={project.link}
+              linkText={project.linkText}
             />
           ))
         ) : props.title === "about" ? (

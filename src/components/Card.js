@@ -19,6 +19,11 @@ const Card = (props) => {
         ) : (
           <p className="cardMainBody">{props.body}</p>
         )}
+        {props.link ? (
+          <a href={props.link} target="_blank" className="cardMainLink">
+            {props.linkText}
+          </a>
+        ) : null}
       </main>
     </article>
   );

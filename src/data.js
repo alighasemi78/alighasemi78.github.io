@@ -34,6 +34,8 @@ export const experiences = [
 export const certifications = [
   {
     logos: [coursera, google],
+    linkText: "Click to Verify",
+    link: "https://coursera.org/verify/professional-cert/KEZ38S9NA7EG",
     title: "Google UX Design",
     type: "ol",
     body: [
@@ -48,6 +50,8 @@ export const certifications = [
   },
   {
     logos: [coursera, meta],
+    linkText: "Click to Verify",
+    link: "https://coursera.org/verify/professional-cert/FZ3J7PLPZDTQ",
     title: "Meta Front-End Developer",
     type: "ol",
     body: [
@@ -67,21 +71,29 @@ export const certifications = [
 export const projects = [
   {
     logos: [snackflix],
+    linkText: "Click to see the Case Study",
+    link: "https://docs.google.com/presentation/d/1nyDjXJpK_2OR8X9keEktH_I8c4ewZ8A1TuPCs90e6SA/edit?usp=sharing",
     title: "Snackflix",
     body: "Snackflix is a snack ordering app that lets users order their snacks before getting to the movie theater. Users from the age of 18 to 70 can use this app with ease.",
   },
   {
     logos: [apartmentFinder],
+    linkText: "Click to see the Case Study",
+    link: "https://docs.google.com/presentation/d/1dYS7pMXu-XqLI6CPxLvcOfEiZyA1dZAizyi-WstDy_U/edit?usp=sharing",
     title: "ApartmentFinder",
     body: "ApartmentFinder is an apartment finding website that lets users find their apartment without the help of any agencies. Users from the age of 18 to 70 can use this website with ease.",
   },
   {
     logos: [cprEasy],
+    linkText: "Click to see the Case Study",
+    link: "https://docs.google.com/presentation/d/1pJNUOq10U5wOf8HWcvG6rfRR6k7uBpgvnISqQaknERA/edit?usp=sharing",
     title: "CPR Easy",
     body: "CPR Easy is a Red Cross based organization focused on basic medical aid. The organization needs a tool that helps people learn about basic medical aid. CPR Easy’s primary target users include people who are taking care of elderly and those who want to be a doctor someday.",
   },
   {
     logos: [littleLemon],
+    linkText: "Click to see the Code",
+    link: "https://github.com/alighasemi78/little-lemon",
     title: "Little Lemon",
     body: "Based in Chicago, Illinois, Little Lemon is a family-owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.",
   },
