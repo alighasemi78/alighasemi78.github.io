@@ -75,7 +75,9 @@ const SideMenu = (props) => {
           </li>
         </ul>
       </nav>
-      <Button>Download CV</Button>
+      <Button href="https://drive.google.com/file/d/1oTXMKI4UASvCpuZHMuQKEOJM_IAHWyNC/view?usp=sharing">
+        View CV
+      </Button>
     </div>
   );
 };
