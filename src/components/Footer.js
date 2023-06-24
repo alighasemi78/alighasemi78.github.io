@@ -17,66 +17,66 @@ const Footer = () => {
           <header>Sections</header>
           <nav>
             <ul>
-              <ul>
-                <li
-                  onClick={() =>
-                    document
-                      .getElementsByClassName("education")[0]
-                      .scrollIntoView({ behavior: "smooth" })
-                  }
-                >
-                  Education
-                </li>
-                <li
-                  onClick={() =>
-                    document
-                      .getElementsByClassName("experiences")[0]
-                      .scrollIntoView({ behavior: "smooth" })
-                  }
-                >
-                  Experiences
-                </li>
-                <li
-                  onClick={() =>
-                    document
-                      .getElementsByClassName("certifications")[0]
-                      .scrollIntoView({ behavior: "smooth" })
-                  }
-                >
-                  Certifications
-                </li>
-                <li
-                  onClick={() =>
-                    document
-                      .getElementsByClassName("projects")[0]
-                      .scrollIntoView({ behavior: "smooth" })
-                  }
-                >
-                  Projects
-                </li>
-                <li
-                  onClick={() =>
-                    document
-                      .getElementsByClassName("about")[0]
-                      .scrollIntoView({ behavior: "smooth" })
-                  }
-                >
-                  About
-                </li>
-                <li
-                  onClick={() =>
-                    document
-                      .getElementsByClassName("contact")[0]
-                      .scrollIntoView({ behavior: "smooth" })
-                  }
-                >
-                  Contact
-                </li>
-              </ul>
+              <li
+                onClick={() =>
+                  document
+                    .getElementsByClassName("education")[0]
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                Education
+              </li>
+              <li
+                onClick={() =>
+                  document
+                    .getElementsByClassName("experiences")[0]
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                Experiences
+              </li>
+              <li
+                onClick={() =>
+                  document
+                    .getElementsByClassName("certifications")[0]
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                Certifications
+              </li>
+              <li
+                onClick={() =>
+                  document
+                    .getElementsByClassName("projects")[0]
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                Projects
+              </li>
+              <li
+                onClick={() =>
+                  document
+                    .getElementsByClassName("about")[0]
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                About
+              </li>
+              <li
+                onClick={() =>
+                  document
+                    .getElementsByClassName("contact")[0]
+                    .scrollIntoView({ behavior: "smooth" })
+                }
+              >
+                Contact
+              </li>
             </ul>
           </nav>
         </section>
-        <Button>Download CV</Button>
+        <Button href="https://drive.google.com/file/d/1oTXMKI4UASvCpuZHMuQKEOJM_IAHWyNC/view?usp=sharing">
+          View CV
+        </Button>
       </section>
     </footer>
   );

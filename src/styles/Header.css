@@ -70,7 +70,7 @@
   }
 
   .header .button {
-    display: block;
+    display: flex;
     grid-column: 10 / span 2;
   }
 }

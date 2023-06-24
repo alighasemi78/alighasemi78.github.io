@@ -27,13 +27,12 @@
 .footerSecondSection {
   grid-column: 1 / span 3;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: repeat(2, auto);
+  align-content: space-between;
   gap: 20px;
-  align-items: center;
 }
 
 .footerSections {
-  grid-column: 1 / span 1;
   color: var(--other);
   display: flex;
   flex-direction: column;
@@ -45,19 +44,23 @@
 }
 
 .footerSections ul {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(2, auto);
+  justify-items: center;
   list-style: none;
   font: var(--nav);
-  display: flex;
-  flex-direction: column;
   gap: 20px;
 }
 
 .footerSections li {
   cursor: pointer;
+  padding: 5px;
 }
 
-.footerSecondSection .button {
-  grid-column: 2 / span 2;
+.footerSections li:last-child,
+.footerSections li:nth-last-child(2) {
+  grid-column: span 2;
 }
 
 @media screen and (min-width: 430px) {
@@ -70,12 +73,7 @@
   }
 
   .footerSecondSection {
-    grid-column: 2 / span 4;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-
-  .footerSecondSection .button {
-    grid-column: 3 / span 2;
+    grid-column: 1 / span 6;
   }
 }
 

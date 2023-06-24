@@ -1,4 +1,5 @@
 import "../styles/Card.css";
+import Button from "./Button";
 
 const Card = (props) => {
   return (
@@ -20,9 +21,9 @@ const Card = (props) => {
           <p className="cardMainBody">{props.body}</p>
         )}
         {props.link ? (
-          <a href={props.link} target="_blank" className="cardMainLink">
+          <Button href={props.link} className="cardMainLink">
             {props.linkText}
-          </a>
+          </Button>
         ) : null}
       </main>
     </article>
