@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.531e8e6c.css",
-    "main.js": "/static/js/main.634b5f49.js",
+    "main.js": "/static/js/main.66e6f000.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/apartment-finder.png": "/static/media/apartment-finder.f8743f509ffa75df8f29.png",
     "static/media/little-lemon.png": "/static/media/little-lemon.24c7aa36597076e526be.png",
@@ -9,17 +9,18 @@
     "static/media/snackflix.png": "/static/media/snackflix.5870a134eb5900425710.png",
     "static/media/ali-ghasemi.jpg": "/static/media/ali-ghasemi.ca9478e9ea851f39f27c.jpg",
     "static/media/sharif.jpeg": "/static/media/sharif.aec7b4467da881eaf62f.jpeg",
+    "static/media/sapienza.jpeg": "/static/media/sapienza.0841919849b26b325978.jpeg",
     "static/media/logo-orange-black.svg": "/static/media/logo-orange-black.043d6d63009fa2bbd47cf6d78e76c64d.svg",
     "static/media/logo-white-orange.svg": "/static/media/logo-white-orange.33230382c466d3e746e383e2f853ecfc.svg",
     "index.html": "/index.html",
     "static/media/bars-solid.svg": "/static/media/bars-solid.fc74b78729108dc5fc20c461ca365033.svg",
     "static/media/xmark-solid.svg": "/static/media/xmark-solid.c4eddf825a20ed794492ff631e7e2fef.svg",
     "main.531e8e6c.css.map": "/static/css/main.531e8e6c.css.map",
-    "main.634b5f49.js.map": "/static/js/main.634b5f49.js.map",
+    "main.66e6f000.js.map": "/static/js/main.66e6f000.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.531e8e6c.css",
-    "static/js/main.634b5f49.js"
+    "static/js/main.66e6f000.js"
   ]
 }
