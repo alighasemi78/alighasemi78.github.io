@@ -11,6 +11,12 @@ import littleLemon from "./assets/images/little-lemon.png";
 
 export const educations = [
   {
+    logos: [sapienza],
+    title:
+      "2023 - Current MSc in Artificial Intelligence and Robotics at Sapienza University of Rome",
+    body: "Embarked on an enriching academic journey at Sapienza University of Rome, where I am currently pursuing a Master's degree in Artificial Intelligence and Robotics. Building upon my solid foundation in Computer Engineering from Sharif University of Technology, this advanced program delves into cutting-edge technologies that drive the fields of AI and robotics. Engaging in challenging coursework, I am exploring advanced algorithms, machine learning, computer vision, and robotics systems, among other specialized areas. The vibrant academic atmosphere at Sapienza, coupled with exposure to leading-edge research and practical applications, is shaping me into a forward-thinking professional in the realm of artificial intelligence. The rigorous curriculum, collaborative projects, and hands-on experiences are further refining my problem-solving prowess, critical thinking abilities, and analytical mindset. This master's program at Sapienza University is a pivotal step in my academic and professional journey, equipping me with the expertise to navigate and contribute to the dynamic landscape of AI and robotics.",
+  },
+  {
     logos: [sharif],
     title:
       "2018 - 2023 BSc in Computer Engineering at Sharif University of Technology",
