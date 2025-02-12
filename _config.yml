@@ -113,7 +113,6 @@ content:
           This project explores curiosity-driven exploration as an intrinsic reward mechanism for agents in environments with sparse or no extrinsic rewards. By formulating curiosity as the error in predicting action consequences within a self-supervised visual feature space, the approach enables efficient exploration and generalization. It allows agents to reach goals with fewer interactions, explore more effectively in the absence of rewards, and adapt to new scenarios by leveraging prior experience.
 
       - layout: top-middle
-        border: weak
         title: Geometric Algebra Transformer (GATr)
         link: https://github.com/YusuphaJuwara/geometric-algebra-transformer-gatr
         link_text: Project Repository
@@ -124,34 +123,56 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        border: weak
+        title: Marketmap
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Front-End Developer
+        caption: March 2018 - September 2022
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          * Led the front-end team, overseeing the development of the website’s homepage, comparison page, and product profile page, among others.
+          * Collaborated closely with the UI designer and back-end team to ensure seamless integration of front-end design and user experience with back-end functionality.
+          * Participated in sprint meetings to ensure that project timelines were on track and to identify and troubleshoot any potential roadblocks or issues.
+          * Mentored a team member, providing guidance and training to help him develop the skills needed to become a successful front-end developer.
+          * Conducted user testing and analysis to identify areas for improvement and worked with the team to implement changes and optimize the user experience.
+
+      - layout: left
+        title: Safarbazi
+        link: https://www.safarbazi.com/
+        link_text: safarbazi.com
+        sub_title: Front-End Developer
+        caption: September 2020 - November 2020
+        description: | # this will include new lines to allow paragraphs
+          * Worked as part of the front-end team to help accelerate the website development process, contributing to the timely launch of the website.
+          * Developed and integrated the sign-up feature into the website’s front end, ensuring a smooth and user-friendly experience for users.
+          * Implemented the ”house for rent by users” feature, allowing users to easily list their properties for rent on the website.
+          * Designed and developed the filtering and searching functionality, allowing users to easily find relevant properties based on their preferences.
+          * Collaborated with other members of the front-end and back-end teams to ensure seamless integration of new features and functionality and to troubleshoot any potential issues.
+
+  - title: Language Skills
+    layout: list
+    content:
+      - layout: left
+        title: English
+        description: |
+          Fluent (TOEFL: 111/120)
+      - layout: left
+        title: Persian
+        description: Native
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in AI and Software Development some of my other interests and hobbies are:
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+      - Watching Movies
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: alighasemi78/alighasemi78.github.io.git
 
 sass:
   sass_dir: _sass
