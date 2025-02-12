@@ -48,7 +48,7 @@ orcid_username: 0009-0009-2975-8222
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently pursuing a Master’s degree in Artificial Intelligence and Robotics at <mark>Sapienza</mark> University of Rome, having completed my Bachelor’s in Computer Engineering at <mark>Sharif</mark> University of Technology.
+  I am currently pursuing a Master’s degree in Artificial Intelligence and Robotics at Sapienza University of Rome, having completed my Bachelor’s in Computer Engineering at Sharif University of Technology.
 
   My technical skills include proficiency in <mark>Python</mark> and its relevant academic libraries such as <mark>PyTorch</mark>, <mark>PyTorch Lightning</mark>, <mark>Pandas</mark>, and <mark>NumPy</mark>. I also have experience with <mark>C++</mark> and <mark>C</mark> through projects in robotics, and my background in front-end development has provided me with valuable experience working in agile team environments.
 
@@ -59,18 +59,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Sapienza University of Rome
         caption: 2023 - Current
         sub_title: MSc AI & Robotics
         description: | # this will include new lines to allow paragraphs
-          Currently pursuing a Master’s degree in Artificial Intelligence and Robotics, with a strong academic record (GPA: 29.2/30). My coursework has covered advanced topics such as <mark>Multilingual NLP</mark>, <mark>Machine Learning</mark>, <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, and <mark>Computer Vision</mark>. I am particularly interested in <mark>generative AI</mark> and vision-based AI models. I am working on my thesis under the supervision of [Professor Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri), focusing on Graph OOD Generalization.
+          Currently pursuing a Master’s degree in Artificial Intelligence and Robotics, with a strong academic record (GPA: 29.2/30). My coursework has covered advanced topics such as <mark>Multilingual NLP</mark>, <mark>Machine Learning</mark>, <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, and <mark>Computer Vision</mark>. I am particularly interested in <mark>generative AI</mark> and <mark>vision-based AI models</mark>. I am working on my thesis under the supervision of [Professor Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri), focusing on <mark>Graph OOD Generalization</mark>.
 
       - layout: left
         title: Sharif University of Technology
         caption: 2018 - 2023
         sub_title: BSc Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          Completed my undergraduate studies in Computer Engineering at Sharif University of Technology, one of the most prestigious institutions in Iran. My coursework provided a strong foundation in algorithms, systems, and AI. For my thesis, I developed a Paraphrasing Model for Persian Sentences, which introduced me to natural language processing and deep learning techniques. During my studies, I consistently improved my problem-solving skills and adaptability, preparing me for advanced research in AI.
+          Completed my undergraduate studies in Computer Engineering at Sharif University of Technology, one of the most prestigious institutions in Iran. My coursework provided a strong foundation in algorithms, systems, and AI. For my thesis, I developed a Paraphrasing Model for Persian Sentences, which introduced me to natural language processing and deep learning techniques. During my studies, I consistently improved my <mark>problem-solving</mark> skills and <mark>adaptability</mark>, preparing me for advanced research in AI.
 
   - title: Publications
     layout: text
@@ -83,20 +84,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        border: weak
+        title: Facial Animation Retargeting
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This project introduces a pipeline for facial animation retargeting that combines <mark>unsupervised</mark> expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
+
+      - layout: top-middle
+        border: weak
+        title: |
+          DiffiT: Diﬀusion Vision Transformers for Image Generation
+        link: https://github.com/alighasemi78/DiffiT-Diffusion-Vision-Transformers-for-Image-Generation
+        link_text: Project Repository
+        link_icon: fab fa-github
+        description: | # this will include new lines to allow paragraphs
+          This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
