@@ -48,9 +48,11 @@ orcid_username: 0009-0009-2975-8222
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am currently pursuing a Master’s degree in Artificial Intelligence and Robotics at <mark>Sapienza</mark> University of Rome, having completed my Bachelor’s in Computer Engineering at <mark>Sharif</mark> University of Technology.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My technical skills include proficiency in <mark>Python</mark> and its relevant academic libraries such as <mark>PyTorch</mark>, <mark>PyTorch Lightning</mark>, <mark>Pandas</mark>, and <mark>NumPy</mark>. I also have experience with <mark>C++</mark> and <mark>C</mark> through projects in robotics, and my background in front-end development has provided me with valuable experience working in agile team environments.
+
+  I am driven by the desire to push the boundaries of research and innovation in AI, aspiring not just to enter the job market but to contribute meaningful advancements in the field. I am a determined problem solver, dedicated team player, and consistent in delivering high-quality work, regardless of the challenges.
 
 content:
   - title: Projects # Title for the section
