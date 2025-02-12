@@ -89,7 +89,7 @@ content:
         # link: github.com/sproogen
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
-          This project introduces a pipeline for facial animation retargeting that combines <mark>unsupervised</mark> expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
+          This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
 
       - layout: top-middle
         border: weak
@@ -97,9 +97,28 @@ content:
           DiffiT: Diﬀusion Vision Transformers for Image Generation
         link: https://github.com/alighasemi78/DiffiT-Diffusion-Vision-Transformers-for-Image-Generation
         link_text: Project Repository
-        link_icon: fab fa-github
         description: | # this will include new lines to allow paragraphs
-          This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
+          Diffusion Vision Transformers (DiffiT) leverage the strengths of diffusion models and Vision Transformers (ViTs) to achieve high-fidelity image generation with improved parameter efficiency. By introducing the Time-dependent Multihead Self-Attention (TMSA) mechanism, DiffiT enables fine-grained control of the denoising process, leading to state-of-the-art performance in both class-conditional and unconditional image synthesis tasks. The Latent DiffiT model sets a new benchmark with an FID score of 1.73 on ImageNet256 while using significantly fewer parameters than other Transformer-based diffusion models.
+
+      - layout: top-middle
+        border: weak
+        title: Adversarial Natural Language Inference
+        description: | # this will include new lines to allow paragraphs
+          This project explores the Natural Language Inference (NLI) task, focusing on enhancing dataset performance against adversarial test sets. It incorporates word sense disambiguation and semantic role labeling to improve robustness. The primary goal is to develop an effective data augmentation strategy that strengthens the model’s ability to handle adversarial examples.
+
+      - layout: top-middle
+        border: weak
+        title: Curiosity-driven Exploration by Self-supervised Prediction
+        description: | # this will include new lines to allow paragraphs
+          This project explores curiosity-driven exploration as an intrinsic reward mechanism for agents in environments with sparse or no extrinsic rewards. By formulating curiosity as the error in predicting action consequences within a self-supervised visual feature space, the approach enables efficient exploration and generalization. It allows agents to reach goals with fewer interactions, explore more effectively in the absence of rewards, and adapt to new scenarios by leveraging prior experience.
+
+      - layout: top-middle
+        border: weak
+        title: Geometric Algebra Transformer (GATr)
+        link: https://github.com/YusuphaJuwara/geometric-algebra-transformer-gatr
+        link_text: Project Repository
+        description: | # this will include new lines to allow paragraphs
+          This project explores the use of projective geometric algebra (PGA) in deep learning models for classifying 3D vascular geometries. By integrating PGA representations with various architectures, including SVM, Logistic Regression, and the Geometric Algebra Transformer (GATr), the study demonstrates the effectiveness of equivariant operations in geometric processing. Additionally, novel EquiLSTM and BiEquiLSTM architectures are introduced, achieving optimal performance and highlighting the potential of PGA-based models in deep learning.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
