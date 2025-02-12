@@ -55,6 +55,12 @@ about_content: | # this will include new lines to allow paragraphs
   I am driven by the desire to push the boundaries of research and innovation in AI, aspiring not just to enter the job market but to contribute meaningful advancements in the field. I am a determined problem solver, dedicated team player, and consistent in delivering high-quality work, regardless of the challenges.
 
 content:
+  - title: Publications
+    layout: list
+    content:
+      - layout: left
+        description: Emanuele Mule^*, Matteo Pannacci^*, Ali Ghasemi Goudarzi^*, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
