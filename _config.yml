@@ -56,10 +56,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Publications
-    layout: list
+    layout: text
     content:
-      - layout: left
-        description: Emanuele Mule^*, Matteo Pannacci^*, Ali Ghasemi Goudarzi^*, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025.
+      description: |
+        Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, Ali Ghasemi Goudarzi<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025.
+
+        <sup>*</sup>":" Equal contribution
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,7 +120,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
