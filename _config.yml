@@ -86,8 +86,8 @@ content:
       - layout: top-middle
         border: weak
         title: Facial Animation Retargeting
-        # link: github.com/sproogen
-        # link_text: Project Website
+        link: https://drive.google.com/file/d/1pOdSBJk91zRCHk48kgDDHBs044fJOB1X/view?usp=sharing
+        link_text: Project Report
         description: | # this will include new lines to allow paragraphs
           This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
 
@@ -98,7 +98,7 @@ content:
         link: https://github.com/alighasemi78/DiffiT-Diffusion-Vision-Transformers-for-Image-Generation
         link_text: Project Repository
         description: | # this will include new lines to allow paragraphs
-          Diffusion Vision Transformers (DiffiT) leverage the strengths of diffusion models and Vision Transformers (ViTs) to achieve high-fidelity image generation with improved parameter efficiency. By introducing the Time-dependent Multihead Self-Attention (TMSA) mechanism, DiffiT enables fine-grained control of the denoising process, leading to state-of-the-art performance in both class-conditional and unconditional image synthesis tasks. The Latent DiffiT model sets a new benchmark with an FID score of 1.73 on ImageNet256 while using significantly fewer parameters than other Transformer-based diffusion models.
+          DiffiT introduces a novel approach to image generation by combining Vision Transformers (ViTs) with diffusion-based models, leveraging a Time-dependent Multihead Self Attention (TMSA) mechanism to achieve high-fidelity image synthesis. The project explores the image space model, outperforming other Transformer-based diffusion models while maintaining parameter efficiency. The implementation includes a detailed diffusion process with a linear noise schedule, efficient noisification techniques, and a learned reverse process. The model is preconfigured for datasets like CIFAR-10 and Tiny ImageNet, with flexible hyperparameters for customization. Key features include the TMSA mechanism, parameter efficiency, and dual support for latent and pixel space implementations. The project provides training and evaluation code, along with pretrained models, making it a comprehensive resource for researchers and practitioners in generative AI.
 
       - layout: top-middle
         border: weak
