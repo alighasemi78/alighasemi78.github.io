@@ -157,6 +157,7 @@ content:
       layout: list
       content:
           - layout: left
+            border: weak
             title: Languages
             description: |
                 Python, Javascript, SQL, C++, Java, C
