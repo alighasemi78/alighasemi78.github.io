@@ -177,21 +177,21 @@ content:
             title: Persian
             description: Native
 
-    # - title: Services & Volunteer Works
-    #   layout: list
-    #   content:
-    #       - layout: left
-    #         title: Peer Review Experience
-    #         description: |
-    #             Reviewer for the International Joint Conference on Neural Networks (IJCNN) 2025
-    #       - layout: left
-    #         title: Volunteer Experience
-    #         description: |
-    #             Participated in the Winter Seminar Series (WSS) 2019 as a volunteer, contributing to the organization and execution of the event
-    #       - layout: left
-    #         title: Teaching Experience
-    #         description: |
-    #             Instructed mathematics, physics, and related subjects at my high school during my undergraduate studies
+    - title: Services & Volunteer Works
+      layout: list
+      content:
+          - layout: left
+            title: Peer Review Experience
+            description: |
+                Reviewer for the International Joint Conference on Neural Networks (IJCNN) 2025
+          - layout: left
+            title: Volunteer Experience
+            description: |
+                Participated in the Winter Seminar Series (WSS) 2019 as a volunteer, contributing to the organization and execution of the event
+          - layout: left
+            title: Teaching Experience
+            description: |
+                Instructed mathematics, physics, and related subjects at my high school during my undergraduate studies
 
     # - title: Honors & Awards
     #   layout: list
