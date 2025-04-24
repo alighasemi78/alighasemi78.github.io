@@ -197,9 +197,9 @@ content:
       layout: list
       content:
           - layout: left
-            title: 2018
+            title: "2018"
             description: |
-                Ranked 16th (Top 0.01%) among around 140,000 students in the National University Entrance Exam (Konkur)
+                Ranked 16th (Top 0.01%) among ~140,000 students in the National University Entrance Exam (Konkur)
 
     - title: A Little More About Me
       layout: text
