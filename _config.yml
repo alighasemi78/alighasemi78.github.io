@@ -48,165 +48,165 @@ googlescholar_username: _hwHW_EAAAAJ
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am currently pursuing a **Master’s degree** in **Artificial Intelligence and Robotics** at **Sapienza University of Rome**, having completed my **Bachelor’s** in **Computer Engineering** at **Sharif University of Technology**.
+  I am currently pursuing a **Master’s degree** in **Artificial Intelligence and Robotics** at **Sapienza University of Rome**, having completed my **Bachelor’s** in **Computer Engineering** at **Sharif University of Technology**.
 
-    My **technical skills** include proficiency in **Python** and its relevant academic libraries such as **PyTorch**, **PyTorch Lightning**, **Pandas**, and **NumPy**. I also have experience with **C++** and **C** through projects in **robotics**, and my background in **front-end development** has provided me with valuable experience working in **agile team environments**.
+  My **technical skills** include proficiency in **Python** and its relevant academic libraries such as **PyTorch**, **PyTorch Lightning**, **Pandas**, and **NumPy**. I also have experience with **C++** and **C** through projects in **robotics**, and my background in **front-end development** has provided me with valuable experience working in **agile team environments**.
 
-    I am driven by the desire to **push the boundaries** of **research** and **innovation** in **AI**, aspiring not just to enter the **job market** but to contribute meaningful **advancements** in the field. I am a **determined problem solver**, **dedicated team player**, and **consistent** in delivering **high-quality work**, regardless of the challenges.
+  I am driven by the desire to **push the boundaries** of **research** and **innovation** in **AI**, aspiring not just to enter the **job market** but to contribute meaningful **advancements** in the field. I am a **determined problem solver**, **dedicated team player**, and **consistent** in delivering **high-quality work**, regardless of the challenges.
 
 content:
-    - title: Education # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-          - layout: left
-            border: weak
-            title: Sapienza University of Rome
-            caption: 2023 - Current
-            sub_title: MSc AI & Robotics
-            description: | # this will include new lines to allow paragraphs
-                Currently pursuing a **Master’s degree** in **Artificial Intelligence and Robotics**, with a **strong academic record (GPA: 29.2/30)**. My coursework has covered **advanced topics** such as **Multilingual NLP**, **Machine Learning**, **Reinforcement Learning**, **Deep Learning**, and **Computer Vision**. I am particularly interested in **generative AI** and **vision-based AI models**. I am working on my **thesis** under the supervision of [**Professor Fabrizio Silvestri**](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri), focusing on **Graph OOD Generalization**.
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak
+        title: Sapienza University of Rome
+        caption: 2023 - Current
+        sub_title: MSc AI & Robotics
+        description: | # this will include new lines to allow paragraphs
+          Currently pursuing a **Master’s degree** in **Artificial Intelligence and Robotics**, with a **strong academic record (GPA: 29.2/30)**. My coursework has covered **advanced topics** such as **Multilingual NLP**, **Machine Learning**, **Reinforcement Learning**, **Deep Learning**, and **Computer Vision**. I am particularly interested in **generative AI** and **vision-based AI models**. I am working on my **thesis** under the supervision of [**Professor Fabrizio Silvestri**](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri), focusing on **Graph OOD Generalization**.
 
-          - layout: left
-            title: Sharif University of Technology
-            caption: 2018 - 2023
-            sub_title: BSc Computer Engineering
-            description: | # this will include new lines to allow paragraphs
-                Completed my **undergraduate studies** in **Computer Engineering** at **Sharif University of Technology**, one of the **most prestigious institutions** in **Iran**. My coursework provided a **strong foundation** in **algorithms**, **systems**, and **AI**. For my **thesis**, I developed a **Paraphrasing Model for Persian Sentences**, which introduced me to **natural language processing** and **deep learning techniques**. During my studies, I consistently improved my **problem-solving skills** and **adaptability**, preparing me for **advanced research** in **AI**.
+      - layout: left
+        title: Sharif University of Technology
+        caption: 2018 - 2023
+        sub_title: BSc Computer Engineering
+        description: | # this will include new lines to allow paragraphs
+          Completed my **undergraduate studies** in **Computer Engineering** at **Sharif University of Technology**, one of the **most prestigious institutions** in **Iran**. My coursework provided a **strong foundation** in **algorithms**, **systems**, and **AI**. For my **thesis**, I developed a **Paraphrasing Model for Persian Sentences**, which introduced me to **natural language processing** and **deep learning techniques**. During my studies, I consistently improved my **problem-solving skills** and **adaptability**, preparing me for **advanced research** in **AI**.
 
-    - title: Publications
-      layout: text
-      content: |
-          [1] Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, **Ali Ghasemi Goudarzi**<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025. <a href="https://arxiv.org/pdf/2502.06288" target="_blank">📄</a>
+  - title: Publications
+    layout: text
+    content: |
+      [1] Emanuele Mule<sup>*</sup>, Matteo Pannacci<sup>*</sup>, **Ali Ghasemi Goudarzi**<sup>*</sup>, Francesco Pro, Lorenzo Papa, Luca Maiano, and Irene Amerini. Enhancing ground-to-aerial image matching for visual misinformation detection using semantic segmentation, 2025. <a href="https://arxiv.org/pdf/2502.06288" target="_blank">📄</a>
 
-          <sup>*</sup>: Equal contribution
+      <sup>*</sup>: Equal contribution
 
-    - title: Projects # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-          - layout: top-middle
-            border: weak
-            title: Facial Animation Retargeting
-            link: https://drive.google.com/file/d/1pOdSBJk91zRCHk48kgDDHBs044fJOB1X/view?usp=sharing
-            link_text: Project Report
-            description: | # this will include new lines to allow paragraphs
-                This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        border: weak
+        title: Facial Animation Retargeting
+        link: https://drive.google.com/file/d/1pOdSBJk91zRCHk48kgDDHBs044fJOB1X/view?usp=sharing
+        link_text: Project Report
+        description: | # this will include new lines to allow paragraphs
+          This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
 
-          - layout: top-middle
-            border: weak
-            title: |
-                DiffiT: Diﬀusion Vision Transformers for Image Generation
-            link: https://github.com/alighasemi78/DiffiT-Diffusion-Vision-Transformers-for-Image-Generation
-            link_text: Project Repository
-            description: | # this will include new lines to allow paragraphs
-                DiffiT introduces a novel approach to image generation by combining Vision Transformers (ViTs) with diffusion-based models, leveraging a Time-dependent Multihead Self Attention (TMSA) mechanism to achieve high-fidelity image synthesis. The project explores the image space model, outperforming other Transformer-based diffusion models while maintaining parameter efficiency. The implementation includes a detailed diffusion process with a linear noise schedule, efficient noisification techniques, and a learned reverse process. The model is preconfigured for datasets like CIFAR-10 and Tiny ImageNet, with flexible hyperparameters for customization. Key features include the TMSA mechanism, parameter efficiency, and dual support for latent and pixel space implementations. The project provides training and evaluation code, along with pretrained models, making it a comprehensive resource for researchers and practitioners in generative AI.
+      - layout: top-middle
+        border: weak
+        title: |
+          DiffiT: Diﬀusion Vision Transformers for Image Generation
+        link: https://github.com/alighasemi78/DiffiT-Diffusion-Vision-Transformers-for-Image-Generation
+        link_text: Project Repository
+        description: | # this will include new lines to allow paragraphs
+          DiffiT introduces a novel approach to image generation by combining Vision Transformers (ViTs) with diffusion-based models, leveraging a Time-dependent Multihead Self Attention (TMSA) mechanism to achieve high-fidelity image synthesis. The project explores the image space model, outperforming other Transformer-based diffusion models while maintaining parameter efficiency. The implementation includes a detailed diffusion process with a linear noise schedule, efficient noisification techniques, and a learned reverse process. The model is preconfigured for datasets like CIFAR-10 and Tiny ImageNet, with flexible hyperparameters for customization. Key features include the TMSA mechanism, parameter efficiency, and dual support for latent and pixel space implementations. The project provides training and evaluation code, along with pretrained models, making it a comprehensive resource for researchers and practitioners in generative AI.
 
-          - layout: top-middle
-            border: weak
-            title: Adversarial Natural Language Inference
-            link: https://github.com/alighasemi78/Adversarial-Natural-Language-Inference
-            link_text: Project Repository
-            description: | # this will include new lines to allow paragraphs
-                This project explores the Natural Language Inference (NLI) task, focusing on enhancing dataset performance against adversarial test sets. It incorporates word sense disambiguation and semantic role labeling to improve robustness. The primary goal is to develop an effective data augmentation strategy that strengthens the model’s ability to handle adversarial examples.
+      - layout: top-middle
+        border: weak
+        title: Adversarial Natural Language Inference
+        link: https://github.com/alighasemi78/Adversarial-Natural-Language-Inference
+        link_text: Project Repository
+        description: | # this will include new lines to allow paragraphs
+          This project explores the Natural Language Inference (NLI) task, focusing on enhancing dataset performance against adversarial test sets. It incorporates word sense disambiguation and semantic role labeling to improve robustness. The primary goal is to develop an effective data augmentation strategy that strengthens the model’s ability to handle adversarial examples.
 
-          - layout: top-middle
-            border: weak
-            title: Curiosity-driven Exploration by Self-supervised Prediction
-            link: https://github.com/alighasemi78/Curiosity-driven-Exploration-by-Self-supervised-Prediction
-            link_text: Project Repository
-            description: | # this will include new lines to allow paragraphs
-                This project explores curiosity-driven exploration as an intrinsic reward mechanism for agents in environments with sparse or no extrinsic rewards. By formulating curiosity as the error in predicting action consequences within a self-supervised visual feature space, the approach enables efficient exploration and generalization. It allows agents to reach goals with fewer interactions, explore more effectively in the absence of rewards, and adapt to new scenarios by leveraging prior experience.
+      - layout: top-middle
+        border: weak
+        title: Curiosity-driven Exploration by Self-supervised Prediction
+        link: https://github.com/alighasemi78/Curiosity-driven-Exploration-by-Self-supervised-Prediction
+        link_text: Project Repository
+        description: | # this will include new lines to allow paragraphs
+          This project explores curiosity-driven exploration as an intrinsic reward mechanism for agents in environments with sparse or no extrinsic rewards. By formulating curiosity as the error in predicting action consequences within a self-supervised visual feature space, the approach enables efficient exploration and generalization. It allows agents to reach goals with fewer interactions, explore more effectively in the absence of rewards, and adapt to new scenarios by leveraging prior experience.
 
-          - layout: top-middle
-            title: Geometric Algebra Transformer (GATr)
-            link: https://github.com/YusuphaJuwara/geometric-algebra-transformer-gatr
-            link_text: Project Repository
-            description: | # this will include new lines to allow paragraphs
-                This project explores the use of projective geometric algebra (PGA) in deep learning models for classifying 3D vascular geometries. By integrating PGA representations with various architectures, including SVM, Logistic Regression, and the Geometric Algebra Transformer (GATr), the study demonstrates the effectiveness of equivariant operations in geometric processing. Additionally, novel EquiLSTM and BiEquiLSTM architectures are introduced, achieving optimal performance and highlighting the potential of PGA-based models in deep learning.
+      - layout: top-middle
+        title: Geometric Algebra Transformer (GATr)
+        link: https://github.com/YusuphaJuwara/geometric-algebra-transformer-gatr
+        link_text: Project Repository
+        description: | # this will include new lines to allow paragraphs
+          This project explores the use of projective geometric algebra (PGA) in deep learning models for classifying 3D vascular geometries. By integrating PGA representations with various architectures, including SVM, Logistic Regression, and the Geometric Algebra Transformer (GATr), the study demonstrates the effectiveness of equivariant operations in geometric processing. Additionally, novel EquiLSTM and BiEquiLSTM architectures are introduced, achieving optimal performance and highlighting the potential of PGA-based models in deep learning.
 
-    - title: Experience # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-          - layout: left
-            border: weak
-            title: Marketmap
-            # link: boringcompany.com
-            # link_text: boringcompany.com
-            sub_title: Front-End Developer
-            caption: March 2020 - September 2022
-            description: | # this will include new lines to allow paragraphs
-                * Led the front-end team, overseeing the development of the website’s homepage, comparison page, and product profile page, among others.
-                * Collaborated closely with the UI designer and back-end team to ensure seamless integration of front-end design and user experience with back-end functionality.
-                * Participated in sprint meetings to ensure that project timelines were on track and to identify and troubleshoot any potential roadblocks or issues.
-                * Mentored a team member, providing guidance and training to help him develop the skills needed to become a successful front-end developer.
-                * Conducted user testing and analysis to identify areas for improvement and worked with the team to implement changes and optimize the user experience.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak
+        title: Marketmap
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Front-End Developer
+        caption: March 2020 - September 2022
+        description: | # this will include new lines to allow paragraphs
+          * Led the front-end team, overseeing the development of the website’s homepage, comparison page, and product profile page, among others.
+          * Collaborated closely with the UI designer and back-end team to ensure seamless integration of front-end design and user experience with back-end functionality.
+          * Participated in sprint meetings to ensure that project timelines were on track and to identify and troubleshoot any potential roadblocks or issues.
+          * Mentored a team member, providing guidance and training to help him develop the skills needed to become a successful front-end developer.
+          * Conducted user testing and analysis to identify areas for improvement and worked with the team to implement changes and optimize the user experience.
 
-          - layout: left
-            title: Safarbazi
-            link: https://www.safarbazi.com/
-            link_text: safarbazi.com
-            sub_title: Front-End Developer
-            caption: September 2020 - November 2020
-            description: | # this will include new lines to allow paragraphs
-                * Worked as part of the front-end team to help accelerate the website development process, contributing to the timely launch of the website.
-                * Developed and integrated the sign-up feature into the website’s front end, ensuring a smooth and user-friendly experience for users.
-                * Implemented the ”house for rent by users” feature, allowing users to easily list their properties for rent on the website.
-                * Designed and developed the filtering and searching functionality, allowing users to easily find relevant properties based on their preferences.
-                * Collaborated with other members of the front-end and back-end teams to ensure seamless integration of new features and functionality and to troubleshoot any potential issues.
+      - layout: left
+        title: Safarbazi
+        link: https://www.safarbazi.com/
+        link_text: safarbazi.com
+        sub_title: Front-End Developer
+        caption: September 2020 - November 2020
+        description: | # this will include new lines to allow paragraphs
+          * Worked as part of the front-end team to help accelerate the website development process, contributing to the timely launch of the website.
+          * Developed and integrated the sign-up feature into the website’s front end, ensuring a smooth and user-friendly experience for users.
+          * Implemented the ”house for rent by users” feature, allowing users to easily list their properties for rent on the website.
+          * Designed and developed the filtering and searching functionality, allowing users to easily find relevant properties based on their preferences.
+          * Collaborated with other members of the front-end and back-end teams to ensure seamless integration of new features and functionality and to troubleshoot any potential issues.
 
-    - title: Technologies
-      layout: list
-      content:
-          - layout: left
-            title: Languages
-            description: |
-                Python, Javascript, SQL, C++, Java, C
-          - layout: left
-            title: Frameworks
-            description: |
-                PyTorch, PyTorch Lightning, PyTorch3D, Pytorch Geometric, Docker, React.js
+  - title: Technologies
+    layout: list
+    content:
+      - layout: left
+        title: Languages
+        description: |
+          Python, Javascript, SQL, C++, Java, C
+      - layout: left
+        title: Frameworks
+        description: |
+          PyTorch, PyTorch Lightning, PyTorch3D, Pytorch Geometric, Docker, React.js
 
-    - title: Language Skills
-      layout: list
-      content:
-          - layout: left
-            border: weak
-            title: English
-            description: |
-                Fluent (TOEFL iBT: 111/120)
-          - layout: left
-            title: Persian
-            description: Native
+  - title: Language Skills
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: English
+        description: |
+          Fluent (TOEFL iBT: 111/120)
+      - layout: left
+        title: Persian
+        description: Native
 
-    - title: Services & Volunteer Works
-      layout: list
-      content:
-          - layout: left
-            title: Peer Review Experience
-            description: |
-                Reviewer for the International Joint Conference on Neural Networks (IJCNN) 2025
-          - layout: left
-            title: Volunteer Experience
-            description: |
-                Participated in the Winter Seminar Series (WSS) 2019 as a volunteer, contributing to the organization and execution of the event
-          - layout: left
-            title: Teaching Experience
-            description: |
-                Instructed mathematics, physics, and related subjects at my high school during my undergraduate studies
+  - title: Services & Volunteer Works
+    layout: list
+    content:
+      - layout: left
+        title: Peer Review Experience
+        description: |
+          Reviewer for the International Joint Conference on Neural Networks (IJCNN) 2025
+      - layout: left
+        title: Volunteer Experience
+        description: |
+          Participated in the Winter Seminar Series (WSS) 2019 as a volunteer, contributing to the organization and execution of the event
+      - layout: left
+        title: Teaching Experience
+        description: |
+          Instructed mathematics, physics, and related subjects at my high school during my undergraduate studies
 
-    - title: Honors & Awards
-      layout: list
-      content:
-          - layout: left
-            title: 2018
-            description: |
-                Ranked 16th (Top 0.01%) among ~140,000 students in the National University Entrance Exam (Konkur)
+  - title: Honors & Awards
+    layout: list
+    content:
+      - layout: left
+        title: 2018
+        description: |
+          Ranked 16th (Top 0.01%) among ~140,000 students in the National University Entrance Exam (Konkur)
 
-    - title: A Little More About Me
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-          Alongside my interests in AI and Software Development some of my other interests and hobbies are:
-          - Gaming
-          - Watching Movies
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in AI and Software Development some of my other interests and hobbies are:
+      - Gaming
+      - Watching Movies
 
 # Footer
 footer_show_references: true
@@ -216,8 +216,8 @@ footer_show_references: true
 remote_theme: sproogen/resume-theme
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 plugins:
-    - jekyll-seo-tag
+  - jekyll-seo-tag
