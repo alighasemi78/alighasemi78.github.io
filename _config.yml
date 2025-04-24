@@ -153,17 +153,17 @@ content:
                 * Designed and developed the filtering and searching functionality, allowing users to easily find relevant properties based on their preferences.
                 * Collaborated with other members of the front-end and back-end teams to ensure seamless integration of new features and functionality and to troubleshoot any potential issues.
 
-    # - title: Technologies
-    #   layout: list
-    #   content:
-    #       - layout: left
-    #         title: Languages
-    #         description: |
-    #             Python, Javascript, SQL, C++, Java, C
-    #       - layout: left
-    #         title: Frameworks
-    #         description: |
-    #             PyTorch, PyTorch Lightning, PyTorch3D, Pytorch Geometric, Docker, React.js
+    - title: Technologies
+      layout: list
+      content:
+          - layout: left
+            title: Languages
+            description: |
+                Python, Javascript, SQL, C++, Java, C
+          - layout: left
+            title: Frameworks
+            description: |
+                PyTorch, PyTorch Lightning, PyTorch3D, Pytorch Geometric, Docker, React.js
 
     - title: Language Skills
       layout: list
