@@ -193,13 +193,13 @@ content:
             description: |
                 Instructed mathematics, physics, and related subjects at my high school during my undergraduate studies
 
-    # - title: Honors & Awards
-    #   layout: list
-    #   content:
-    #       - layout: left
-    #         title: 2018
-    #         description: |
-    #             Ranked 16th (Top 0.01%) among ~140,000 students in the National University Entrance Exam (Konkur)
+    - title: Honors & Awards
+      layout: list
+      content:
+          - layout: left
+            title: 2018
+            description: |
+                Ranked 16th (Top 0.01%) among ~140,000 students in the National University Entrance Exam (Konkur)
 
     - title: A Little More About Me
       layout: text
