@@ -86,8 +86,8 @@ content:
           - layout: top-middle
             border: weak
             title: Facial Animation Retargeting
-            link: https://drive.google.com/file/d/1pOdSBJk91zRCHk48kgDDHBs044fJOB1X/view?usp=sharing
-            link_text: Project Report
+            link: https://github.com/alighasemi78/Facial-Animation-Retargeting
+            link_text: Project Repository
             description: | # this will include new lines to allow paragraphs
                 This project introduces a pipeline for facial animation retargeting that combines unsupervised expression transfer with 3D blendshape prediction, enabling the geometric reconstruction of facial expressions from 2D images. By bridging 2D reenactment with 3D parametric models, this work offers a modular framework for animation workflows, eliminating the need for paired training data or manual blendshape annotation. The results highlight its potential for applications in virtual avatars, AR/VR, and automated animation pipelines.
 
