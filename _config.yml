@@ -187,6 +187,15 @@ content:
 
           **Teaching Experience**: Instructed mathematics, physics, and related subjects at my high school during my undergraduate studies
 
+    - title: Certificates & Conferences
+      layout: text
+      content: |
+          Attendance at The 13th International Conference on Learning Representations (ICLR 2025)
+
+          Meta Front-End Developer Specialization
+
+          Google UX Design Specialization
+
     - title: Honors & Awards
       layout: text
       content: |
