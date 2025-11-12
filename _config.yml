@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ali Ghasemi
-title: MS Student in Artificial Intelligence
+title: MS Graduate in Artificial Intelligence
 email: hesanghasemi99@gmail.com
 website: https://alighasemi78.github.io/
 
@@ -48,7 +48,7 @@ googlescholar_username: _hwHW_EAAAAJ
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am currently pursuing a **Master’s degree** in **Artificial Intelligence and Robotics** at **Sapienza University of Rome**, having completed my **Bachelor’s** in **Computer Engineering** at **Sharif University of Technology**.
+    I recently finished my **Master’s degree** in **Artificial Intelligence and Robotics** at **Sapienza University of Rome**, having completed my **Bachelor’s** in **Computer Engineering** at **Sharif University of Technology**.
 
     My **technical skills** include proficiency in **Python** and its relevant academic libraries such as **PyTorch**, **PyTorch Lightning**, **Pandas**, and **NumPy**. I also have experience with **C++** and **C** through projects in **robotics**, and my background in **front-end development** has provided me with valuable experience working in **agile team environments**.
 
@@ -61,10 +61,10 @@ content:
           - layout: left
             border: weak
             title: Sapienza University of Rome
-            caption: 2023 - Current
+            caption: 2023 - 2025
             sub_title: MSc AI & Robotics
             description: | # this will include new lines to allow paragraphs
-                Currently pursuing a **Master’s degree** in **Artificial Intelligence and Robotics**, with a **strong academic record (GPA: 29.2/30)**. My coursework has covered **advanced topics** such as **Multilingual NLP**, **Machine Learning**, **Reinforcement Learning**, **Deep Learning**, and **Computer Vision**. I am particularly interested in **generative AI** and **vision-based AI models**. I am working on my **thesis** under the supervision of [**Professor Fabrizio Silvestri**](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri), focusing on **Graph OOD Generalization**.
+                Completed my **Master’s degree** in **Artificial Intelligence and Robotics**, with an **outstanding academic record (GPA: 110/110 with honors)**. My coursework has covered **advanced topics** such as **Multilingual NLP** (with [**Prof. Roberto Navigli**](https://www.diag.uniroma1.it/navigli/)), **Machine Learning**, **Reinforcement Learning**, **Deep Learning**, and **Computer Vision**. I am particularly interested in **Interpretable AI** and **Reliable LLMs**. I completed my **thesis** under the supervision of [**Professor Fabrizio Silvestri**](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri), focusing on **Graph OOD Generalization**, which helps improve the robustness of AI models and makes them more interpretable and reliable.
 
           - layout: left
             title: Sharif University of Technology
@@ -181,7 +181,10 @@ content:
     - title: Services & Volunteer Works
       layout: text
       content: |
-          **Peer Review Experience**: Reviewer for the International Joint Conference on Neural Networks (IJCNN) 2025
+          **Peer Review Experience**:
+
+          * Reviewer for the Unifying Representations in Neural Models (UniReps 2025)
+          * Reviewer for the International Joint Conference on Neural Networks (IJCNN) 2025
 
           **Volunteer Experience**: 
 
